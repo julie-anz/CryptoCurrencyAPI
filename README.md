@@ -1,6 +1,6 @@
 # Cryptonite
 
-A single-page app for browsing cryptocurrency info, built with HTML, CSS, Bootstrap, JavaScript, jQuery and Ajax using external APIs (CoinGecko and CryptoCompare). Custom styling throughout: a stone-textured theme, glass-style coin cards, toggle switches and a CSS loading animation.
+A single-page app for browsing cryptocurrency info, built with HTML, CSS, Bootstrap, JavaScript, jQuery and Ajax using external APIs (CoinGecko and CryptoCompare). 
 
 > Note: the CryptoCompare API used for Live Reports now requires an API key, so that feature no longer works on the live site. Chart screenshots use sample prices.
 
